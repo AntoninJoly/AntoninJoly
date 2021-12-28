@@ -10,16 +10,22 @@ Dev / management tools:
 - BE: docker, lambda, Sagemaker
 - Management: JIRA, Gantt
 
-R&D experiences (among other):
+AI R&D experiences:
+- Data processing & feature engineering.
 - Various computer vision project implying image trasnformation (homography, TPS), feature matching, object detection, ...
 - ML regression/classifcation model.
 - Object detection & semantic segmentation as standalone solutions and instance segmentation.
-- keypoints retrieval
-- A/B testing
+- Text classification
+- Keypoints retrieval.
+- A/B testing.
 - Clustering.
 - RNN classification model.
 
-<!---
-AntoninJoly/AntoninJoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend R&D experiences:
+- Dockerization of AI solutions
+- Cloud integration using AWS Lambda, ECR / Sagemaker
+
+Aiming to develop in:
+- GAN.
+- Data engineering pipepline and BI tools.
+- 
