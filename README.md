@@ -11,14 +11,13 @@ Dev / management tools:
 - Management: JIRA, Gantt
 
 R&D experiences (among other):
-- ML reg. model.
-- Semantic segm.
-- Instance segmentation
+- Various computer vision project implying image trasnformation (homography, TPS), feature matching, object detection, ...
+- ML regression/classifcation model.
+- Object detection & semantic segmentation as standalone solutions and instance segmentation.
 - keypoints retrieval
-- ML cls models
 - A/B testing
-- Unsupervised and supevised clustering.
-- RNN cls model.
+- Clustering.
+- RNN classification model.
 
 <!---
 AntoninJoly/AntoninJoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
