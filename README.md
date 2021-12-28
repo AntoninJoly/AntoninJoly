@@ -1,4 +1,4 @@
-AI Tech lead @Monstar Lab, Inc
+AI engineer and Tech lead @Monstar Lab, Inc
 
 Working on developing MonstarLab AI team and activities.
 - ML/CV/DL/NLP/EDA projects from PoC and client talk to production.
@@ -10,7 +10,8 @@ Dev / management tools:
 - BE: docker, lambda, Sagemaker
 - Management: JIRA, Gantt
 
-AI R&D experiences:
+## Technologies
+**AI R&D experiences**
 - Data processing & feature engineering.
 - Various computer vision project implying image trasnformation (homography, TPS), feature matching, object detection, ...
 - ML regression/classifcation model.
@@ -21,14 +22,15 @@ AI R&D experiences:
 - Clustering.
 - RNN classification model.
 
-Backend R&D experiences:
+**Backend R&D experiences**
 - Dockerization of AI solutions
 - Cloud integration using AWS Lambda, ECR / Sagemaker
 
-Aiming to develop in:
+**Aiming to develop in**
 - GAN.
 - Data engineering pipepline and BI tools.
 
-🔗 Connect with me:
+## 🔗 Connect with me:
+
 <a href="https://www.linkedin.com/in/antoninjoly/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
