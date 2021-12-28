@@ -1,11 +1,12 @@
-AI engineer and Tech lead @Monstar Lab, Inc
-
+**AI engineer and Tech lead**
 Working on developing MonstarLab AI team and activities.
+
+## Tasks 📝
 - ML/CV/DL/NLP/EDA projects from PoC and client talk to production.
 - AI team support / assignment / development / recruitment.
 - Facilitate and orchestrate discussions across engineering teams.
 
-## Dev / management tools 👨‍💻
+## Dev / management tools 💻
 - AI: OpenCV, numpy, pandas, Keras, Pytorch
 - BE: docker, lambda, Sagemaker
 - Management: JIRA, Gantt
