@@ -8,9 +8,9 @@ Working on developing MonstarLab AI team and activities.
 - Facilitate and orchestrate discussions across engineering teams.
 
 ## Dev / management tools 💻
-- AI: OpenCV, numpy, pandas, Keras, Pytorch
-- BE: docker, lambda, Sagemaker
-- Management: JIRA, Gantt
+- **AI**: OpenCV, PIL, numpy, pandas, Keras, Pytorch, scikit-learn
+- **BE**: docker, lambda, Sagemaker
+- **Management**: JIRA, Gantt
 
 ## Skills 🛠️
 **AI R&D experiences**
