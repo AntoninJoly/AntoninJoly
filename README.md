@@ -1,3 +1,5 @@
+Repositories are under constructions and need to be updated.
+
 ## **AI engineer and Tech lead**
 
 Working on developing MonstarLab AI team and activities.
@@ -5,24 +7,22 @@ Working on developing MonstarLab AI team and activities.
 ## Tasks 📝
 - ML/CV/DL/NLP/EDA projects from PoC and client talk to production.
 - AI team support / assignment / development / recruitment.
-- Facilitate and orchestrate discussions across engineering teams.
+- Facilitate and orchestrate cooperations across engineering teams.
 
 ## Dev / management tools 💻
-- **AI**: OpenCV, PIL, numpy, pandas, Keras, Pytorch, scikit-learn
+- **AI**: OpenCV, PIL, numpy, pandas / feather, Keras, Pytorch, scikit-learn
 - **BE**: docker, lambda, Sagemaker
 - **Management**: JIRA, Gantt
 
 ## Skills 🛠️
 **AI R&D experiences**
 - Data processing & feature engineering.
-- Various computer vision project implying image trasnformation (homography, TPS), feature matching, object detection, ...
-- ML regression/classifcation model.
+- Various computer vision project implying image transformation (homography, TPS), feature matching, object detection, ...
+- Text & tabular data regression/classification modelling.
 - Object detection & semantic segmentation as standalone solutions and instance segmentation.
-- Text classification
-- Keypoints retrieval.
+- Times series classification modelling.
 - A/B testing.
 - Clustering.
-- RNN classification model.
 
 **Backend R&D experiences**
 - Dockerization of AI solutions
@@ -30,7 +30,10 @@ Working on developing MonstarLab AI team and activities.
 
 **Aiming to develop in**
 - GAN.
+- Reinforcement learning.
 - Data engineering pipepline and BI tools.
+- SQL.
+- Other programming languages.
 
 ## 🔗 Connect with me
 
