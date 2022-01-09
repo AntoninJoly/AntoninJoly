@@ -1,7 +1,6 @@
 Repositories are under constructions and need to be updated. I prefer to display results using notebook as they are convenient for visualization.
 
 ## **AI engineer and Tech lead**
-
 Working on developing MonstarLab AI team and activities.
 
 ## Tasks 📝
