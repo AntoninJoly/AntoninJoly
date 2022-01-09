@@ -1,4 +1,4 @@
-Repositories are under constructions and need to be updated.
+Repositories are under constructions and need to be updated. I prefer to display results using notebook as they are convenient for visualization.
 
 ## **AI engineer and Tech lead**
 
