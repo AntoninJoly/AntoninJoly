@@ -29,9 +29,6 @@ Working on developing MonstarLab AI team and activities.
 
 **Aiming to develop in**
 - GAN.
-- Reinforcement learning.
-- Data engineering pipepline and BI tools.
-- SQL.
 - Other programming languages.
 
 ## 🔗 Connect with me
